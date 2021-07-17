@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HimanshuChittora23908
+- 👋 Hi, I’m Himanshu Chittora
 - 👀 I’m interested in Web Development, Animation and Game Development
 - 🌱 I’m currently learning Adobe After Effects and working on various Web Development Projects. 
 
