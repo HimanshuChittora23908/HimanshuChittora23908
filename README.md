@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Chittora
 - 👀 I’m interested in Web Development, Animation and Game Development
-- 🌱 I’m currently learning Adobe After Effects and working on various Web Development Projects. 
+- 🌱 I’m currently learning Adobe After Effects and Blender and working on various Web Dev Projects. 
 
 # My Current Github Status
 
