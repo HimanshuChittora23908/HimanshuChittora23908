@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Chittora
-- 👀 I’m interested in Web Development, Animation and Game Development
-- 🌱 I’m currently learning Adobe After Effects and Blender and working on various Web Dev Projects. 
+- 👀 Interested in Web3.0 & Full Stack Web Development
+- 🌱 Founding eDaftar
 
 # My Current Github Status
 
